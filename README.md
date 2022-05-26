@@ -4,7 +4,7 @@
 <br>
 
 
-<h2 align="center"> <img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/laptop.gif width="50px">Minhas formações<img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/laptop.gif width="50px"></h2>
+<h2 align="center"> <img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/laptop.gif width="45px">Minhas formações<img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/laptop.gif width="45px"></h2>
 
 <p align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50px" height="50px"/>
