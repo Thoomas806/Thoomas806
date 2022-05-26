@@ -17,10 +17,25 @@
   
   <div align="center">
   <h2>Redes Sociais</h2>
-  <a href="https://www.instagram.com/_carlws_/">
-    <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white>
-  </a>
- <a href="mailto:ritikpr307@gmail.com">
-  <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white>
-  </a>
+    <p>
+      <a href="https://www.twitch.tv/lthoomas">
+        <img src=https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white>
+      </a
+      <a href="https://www.instagram.com/_carlws_/">
+        <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white>
+      </a>
+      <a href="mailto:cataclysm608@gmail.com">
+        <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white>
+      </a>
+      <a href="https://www.linkedin.com/in/carlos-eduardo-vanziler-gomes-aa759b236/">
+        <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
+      </a>
+    </p>
+  <h3>🎮 Games</h3>
+      <a href="https://www.riotgames.com/pt-br/quem-somos">
+        <img src=https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white>
+      </a>
+      <a href="https://www.blizzard.com/pt-br/company/about">
+        <img src=https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF>
+      </a>
   </div>
