@@ -31,7 +31,7 @@
         <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
       </a>
     </p>
-  <h3>🎮 Games</h3>
+  <h2>🎮 Games</h2>
       <a href="https://www.riotgames.com/pt-br/quem-somos">
         <img src=https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white>
       </a>
