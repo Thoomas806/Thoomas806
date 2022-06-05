@@ -1,5 +1,5 @@
 <div align="center">
-<img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/Banner%20arcane2.gif>
+<img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/Banner%20arcane.gif width="50px" height="50px">
 </div>
 <br>
 
