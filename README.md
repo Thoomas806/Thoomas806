@@ -8,11 +8,12 @@
 <p align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50px" height="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50px" height="50px" /> </p>
-  <img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/hi-jinx.gif height="200px" alt="meu banner" align="right">
+  
+  <img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/hi-jinx.gif  width="50px" height="200px" alt="meu banner" align="right">
   
   <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thoomas806&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thoomas806&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thoomas806&layout=compact&langs_count=7&theme=tokyonight"/>
   </div>
   
   <div align="center">
