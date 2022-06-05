@@ -1,5 +1,5 @@
 <div align="center">
-<img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/Bannerarcane2.jpg alt="banner da Jinx e Vi escrito: oi, eu sou carlos um estudante de front-end e um grande fã da série Arcane" >
+<img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/Banner%20arcane.gif alt="banner da Jinx e Vi escrito: oi, eu sou carlos um estudante de front-end e um grande fã da série Arcane" >
 </div>
 <br>
 
