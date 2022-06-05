@@ -1,8 +1,6 @@
-<header>
 <div align="center">
 <img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/Banner%20Arcane.png alt="banner da Jinx e Vi escrito: oi, eu sou carlos um estudante de front-end e um grande fã da série Arcane" >
 </div>
-  </header>
 <br>
 
 <h2 align="center"> <img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/laptop.gif width="45px" height="45px">Minhas formações</h2>
