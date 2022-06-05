@@ -1,5 +1,6 @@
 <div align="center">
-<img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/Banner%20arcane.gif alt="recomendado visualizar o perfil no computador">
+<img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/Banner%20arcane.gif alt="recomendado visualizar
+                                                                                             o perfil no computador">
 </div>
 <br>
 
