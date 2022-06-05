@@ -3,7 +3,7 @@
 </div>
 <br>
 
-<h2 align="center"> <img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/laptop.gif width="45px" height="45px">Minhas formações</h2><img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/hi-jinx.gif width="100px" height="200px" align="right">
+<h2 align="center"> <img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/laptop.gif width="45px" height="45px">Minhas formações</h2><img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/hi-jinx.gif height="200px" align="bottom">
 
 <p align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50px" height="50px"/>
