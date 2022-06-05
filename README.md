@@ -1,6 +1,5 @@
 <div align="center">
-<img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/Banner%20arcane.gif alt="recomendado visualizar o perfil no computador 
-                                                                                             recommended to view the profile on the computer">
+<img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/Banner%20arcane.png alt="banner da Jinx e Vi escrito: oi, eu sou carlos um estudante de front-end e um grande fã da série Arcane >
 </div>
 <br>
 
