@@ -1,4 +1,4 @@
-## <div align="center">
+<div align="center">
 <img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/Banner%20arcane.gif alt="recomendado visualizar o perfil no computador 
                                                                                              recommended to view the profile on the computer">
 </div>
