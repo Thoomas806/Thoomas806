@@ -3,13 +3,16 @@
 </div>
 <br>
 
-<h2 align="center"> <img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/laptop.gif width="45px" height="45px">Minhas formações</h2>
+<h2 align="center"> <img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/laptop.gif width="45px" height="45px">Minhas formações
+
+  <img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/hi-jinx.gif  width="150px" height="200px" alt="meu banner" align="right" style="margin-right: 5px;">
+
+</h2>
 
 <p align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50px" height="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50px" height="50px" /> </p>
-  
-  <img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/hi-jinx.gif  width="150px" height="200px" alt="meu banner" align="right">
+
   
   <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thoomas806&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
