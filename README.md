@@ -15,7 +15,7 @@
   </p>
   <p>
     <img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/jinx%20gifs/arcane-jinx.gif width="150px" height="200px" align="left">
-    <img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/hi-jinx.gif  width="150px" height="200px" alt="meu banner" align="right">
+    <img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/hi-jinx.gif  width="150px" height="2000px" alt="meu banner" align="right">
    </p>
 </div>
   
