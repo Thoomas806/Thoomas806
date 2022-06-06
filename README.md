@@ -9,11 +9,14 @@
 </div>
 
 <div>
-<p align="center"> 
+<p align="center" style="display: inline-block;"> 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50px" height="50px"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50px" height="50px" />
   </p>
-  <img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/hi-jinx.gif  width="150px" height="200px" alt="meu banner" align="right">
+  <p>
+    <img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/jinx%20gifs/jinx-arcane%20(1).gif width="150px" height="200px" align="left">
+    <img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/hi-jinx.gif  width="150px" height="200px" alt="meu banner" align="right">
+   </p>
 </div>
   
   <div align="center">
