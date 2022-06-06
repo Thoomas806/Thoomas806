@@ -14,7 +14,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50px" height="50px" />
   </p>
   <p>
-    <img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/jinx%20gifs/giphy.gif width="100%" height="250px" align="left">
+    <img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/hi-jinx.gif  width="150px" height="200px" alt="meu banner" align="right">
    </p>
 </div>
   
@@ -48,3 +48,6 @@
         <img src=https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF>
       </a>
   </div>
+<div>
+  <img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/wallpaperflare.com_wallpaper.jpg width="100%" height="350px">
+</div>
